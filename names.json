@@ -1,23 +1,14 @@
-{   
-    "copresence-Thiers13_stats": {
-        "name": "copresence-Thiers13_stats",
-        "directory": "copresence-Thiers13_stats-dir"
-    },
-    "twitter": {
-        "name": "Twitter",
-        "description": "Twitter is a social networking service that enables users to send and read short 140-character messages called \"tweets\". This graph is extracted by blah blah for blah",
-        "directory": "twitter-dir"
-    },
+{
     "rec-amz-Books_stats": {
         "name": "rec-amz-Books_stats",
         "directory": "rec-amz-Books_stats-dir"
     },
     "soc-LiveJournal1_sym": {
-        "name": "LiveJournal",
+        "name": "soc-LiveJournal1_sym",
         "directory": "soc-LiveJournal1_sym-dir"
     },
     "protein": {
-        "name": "Protein",
+        "name": "protein",
         "directory": "protein-dir"
     },
     "rec-amz-Sports-and-Outdoors_stats": {
@@ -36,6 +27,10 @@
         "name": "ia-online-ads-criteo-attrs_stats",
         "directory": "ia-online-ads-criteo-attrs_stats-dir"
     },
+    "twitter": {
+        "name": "twitter",
+        "directory": "twitter-dir"
+    },
     "soc-bitcoin_stats": {
         "name": "soc-bitcoin_stats",
         "directory": "soc-bitcoin_stats-dir"
@@ -48,7 +43,10 @@
         "name": "soc-flickr-growth_stats",
         "directory": "soc-flickr-growth_stats-dir"
     },
-    
+    "copresence-Thiers13_stats": {
+        "name": "copresence-Thiers13_stats",
+        "directory": "copresence-Thiers13_stats-dir"
+    },
     "rec-amz-Electronics_stats": {
         "name": "rec-amz-Electronics_stats",
         "directory": "rec-amz-Electronics_stats-dir"
