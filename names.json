@@ -1,50 +1,50 @@
 {
     "rec-amz-Books_stats": {
-        "name": "rec-amz-Books_stats",
+        "name": "Amazon Books",
         "directory": "rec-amz-Books_stats-dir"
     },
     "soc-LiveJournal1_sym": {
-        "name": "soc-LiveJournal1_sym",
+        "name": "Live Journal",
         "directory": "soc-LiveJournal1_sym-dir"
     },
     "protein": {
-        "name": "protein",
+        "name": "Protein",
         "directory": "protein-dir"
     },
     "rec-amz-Sports-and-Outdoors_stats": {
-        "name": "rec-amz-Sports-and-Outdoors_stats",
+        "name": "Amazon Sports and Outdoors",
         "directory": "rec-amz-Sports-and-Outdoors_stats-dir"
     },
     "ia-online-ads-criteo_stats": {
-        "name": "ia-online-ads-criteo_stats",
+        "name": "Criteo Ads",
         "directory": "ia-online-ads-criteo_stats-dir"
     },
     "rec-amz-Cell-Phones-and-Acc_stats": {
-        "name": "rec-amz-Cell-Phones-and-Acc_stats",
+        "name": "Amazon Cell Phones and Accessories",
         "directory": "rec-amz-Cell-Phones-and-Acc_stats-dir"
     },
     "ia-online-ads-criteo-attrs_stats": {
-        "name": "ia-online-ads-criteo-attrs_stats",
+        "name": "Criteo Ads Attributes",
         "directory": "ia-online-ads-criteo-attrs_stats-dir"
     },
     "twitter": {
-        "name": "twitter",
+        "name": "Twitter",
         "directory": "twitter-dir"
     },
     "soc-bitcoin_stats": {
-        "name": "soc-bitcoin_stats",
+        "name": "Bitcoin Transactions",
         "directory": "soc-bitcoin_stats-dir"
     },
     "rec-amz-Clothing-Shoes-Jewelry_stats": {
-        "name": "rec-amz-Clothing-Shoes-Jewelry_stats",
+        "name": "Amazon Clothing, Shoes, Jewelry",
         "directory": "rec-amz-Clothing-Shoes-Jewelry_stats-dir"
     },
     "soc-flickr-growth_stats": {
-        "name": "soc-flickr-growth_stats",
+        "name": "Flickr",
         "directory": "soc-flickr-growth_stats-dir"
     },
     "copresence-Thiers13_stats": {
-        "name": "copresence-Thiers13_stats",
+        "name": "Thiers13",
         "directory": "copresence-Thiers13_stats-dir"
     },
     "rec-amz-Electronics_stats": {

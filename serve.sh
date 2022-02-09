@@ -7,5 +7,5 @@ echo "http://$(hostname -s):${SLURM_STEP_RESV_PORTS}/" >> $PORTAL_FWFILE
 
 chmod u+x ${PORTAL_FWFILE}
 
-streamlit run main.py --server.port ${SLURM_STEP_RESV_PORT
+streamlit run main.py --server.port ${SLURM_STEP_RESV_PORT}
 
