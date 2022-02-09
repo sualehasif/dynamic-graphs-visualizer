@@ -14,7 +14,7 @@ production = True
 # TODO: put data per graph
 # """
 
-data_directory = "data"
+data_directory = "compressed-data"
 config_name = "graph_config.json"
 graph_config = json.load(open(config_name))
 st.set_page_config(layout="wide")
@@ -50,7 +50,7 @@ if side_by_side:
 # TODO: Add a slider later for how much we should subsample?
 
 def get_data(graph_name, col=None, config=graph_config, prop=None):
-    name = config[graph_name]["name"]
+    name = "compressed-" + config[graph_name]["name"]
     dir_name = os.path.join(data_directory, config[graph_name]["directory"])
     
     files = [f for f in os.listdir(dir_name)]
